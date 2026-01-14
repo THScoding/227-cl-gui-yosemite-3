@@ -28,7 +28,7 @@ def do_command():
         if (len(url_val) == 0):
             # url_val = "127.0.0.1"
             url_val = "::1"
-
+            print("work")
 
     
 root = tk.Tk()
